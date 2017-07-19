@@ -67,7 +67,7 @@ spec:
             - --regions
             - us-east-1
             - --cluster-name
-            - pipeline.kubernetes.dev.aws.away.black
+            - pipeline.com
             - -vvv
             - --type-idle-threshold
             - "0"
